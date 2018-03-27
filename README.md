@@ -1,11 +1,11 @@
 # Recursos
 
-## Referencia
+## Referencia :dragon:
 
-- [MDN](https://developer.mozilla.org/en-US/)
-- [CSS-Tricks](https://css-tricks.com/)
+- [MDN](https://developer.mozilla.org/en-US/) `HTML, CSS y JavaScript`
+- [CSS-Tricks](https://css-tricks.com/) `CSS`
 
-## Libros
+## Libros :books:
 
-- [Eloquent JavaScript](https://eloquentjavascript.net/)
-- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+- [Eloquent JavaScript](https://eloquentjavascript.net/) `JavaScript`
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) `JavaScript`
