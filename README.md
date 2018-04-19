@@ -11,3 +11,4 @@
 
 - **[`Eloquent JavaScript`](https://eloquentjavascript.net/)**
 - **[`You Don't Know JS (book series`)](https://github.com/getify/You-Dont-Know-JS)**
+- **[`Pro Git`](https://git-scm.com/book/en/v2)**
